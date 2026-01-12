@@ -236,6 +236,16 @@ html, body {
 
 /*Contact*/
 
+#contact h1{
+
+    color: #2f4858;
+    font-family: 'Tinos', serif;
+    font-weight: 1000 !important;
+    font-size: 50px;
+    text-align: center;
+    color: #2f4858 !important;
+}
+
 #form {
     color: #2f4858;
     font-family: 'Tinos', serif;
@@ -247,7 +257,7 @@ html, body {
 
 
 /* Footer */
-footer {
+.footer p {
    
     border-top: 1px solid var(--border);
     background-color: 2f4858;
