@@ -148,7 +148,7 @@ html, body {
 
 
 /* Target the Name */
-#landing h1 {
+.trainee-name {
     /* Use clamp to ensure it fits mobile but stays large on desktop */
     font-size: clamp(1.8rem, 8vw, 3.5rem); 
     font-family: 'Tinos', serif;
